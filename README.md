@@ -1,7 +1,7 @@
 # ChaCha20-Poly1305 Cryptographic Library
 
 **Version:** 1.0  
-**Date:** December 2024  
+**Date:** 03 November 2025  
 **Platform:** Windows 11 with MSYS2/Cygwin64
 
 ## Table of Contents
