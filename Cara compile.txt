@@ -1,0 +1,7 @@
+# In MSYS2 or MinGW terminal:
+
+# Method 1: Using Makefile
+make clean
+make
+
+.\chacha20_test.exe
